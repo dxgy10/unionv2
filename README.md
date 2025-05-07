@@ -1,3 +1,3 @@
-npm install ethers axios moment-timezone readline dotenv
+npm install ethers axios moment-timezone readline dotenv @cosmjs/proto-signing
 
 usdc faucet : https://faucet.circle.com/
